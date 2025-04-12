@@ -1,4 +1,5 @@
 #Predicting Customer Behavior and Revenue
+
 ##Overview
 This project aims to predict customer behavior and revenue for an e-commerce business using customer transactional data. The goal is to derive actionable insights that can optimize business strategies, marketing campaigns, and resource allocation.
 
